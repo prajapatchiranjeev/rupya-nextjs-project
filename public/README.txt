@@ -1,0 +1,1 @@
+Add your favicon files here (e.g. favicon.ico, site.webmanifest)

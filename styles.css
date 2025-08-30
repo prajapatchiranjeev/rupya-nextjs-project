@@ -1,0 +1,4 @@
+/* styles.css - small helpers */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+html, body { font-family: Inter, system-ui, -apple-system, sans-serif; }
+.prose p { color: #334155; }

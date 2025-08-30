@@ -1,0 +1,4 @@
+Deployment notes:
+- This app works with Next.js. For quick testing use `npm install` then `npm run dev`.
+- For static export, you can run `next build && next export` (note: `next export` may need configuration for dynamic routes).
+- Tailwind is included via CDN for rapid prototyping. For production, consider installing Tailwind properly.
