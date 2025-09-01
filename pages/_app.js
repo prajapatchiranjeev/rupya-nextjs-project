@@ -12,8 +12,6 @@ function MyApp({ Component, pageProps }) {
           rel="stylesheet"
         />
       </Head>
-
-      {/* Tailwind via CDN (not recommended for production, better to install via npm) */}
       <Script src="https://cdn.tailwindcss.com" strategy="beforeInteractive" />
 
       <Component {...pageProps} />
